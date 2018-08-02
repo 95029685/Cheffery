@@ -1,3 +1,20 @@
 h1 {
+	margin-top: 20px !important;
 	text-align: center;
+
+}
+
+.sponsor_img{
+	width: 250px;
+}
+body{
+	font-family: 'Spectral' !important;
+}
+
+.active{
+	border-bottom : 2px solid orange;
+}
+
+.nav-item:hover {
+	border-bottom : 2px solid orange;
 }
