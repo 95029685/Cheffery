@@ -15,4 +15,13 @@ body{
 text-align: center;
 font-size: 20px
 
+
+
+}
+body {
+	 background-image: url("https://static01.nyt.com/images/2010/02/24/dining/24robots-2/24robots_CA1-articleLarge.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;
+
 }
